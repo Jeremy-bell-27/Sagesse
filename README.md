@@ -3,7 +3,7 @@
 Un site web simple et élégant qui affiche des **citations inspirantes** avec portrait d’auteur.  
 Chaque clic génère une nouvelle citation aléatoire avec une petite transition fluide.  
 
-🔗 [Voir le site en ligne](https://github.com/Jeremy-bell-27/Sagesse/)
+🔗 [Voir le site en ligne](https://jeremy-bell-27.github.io/Sagesse/)
 
 ---
 
@@ -16,3 +16,4 @@ Chaque clic génère une nouvelle citation aléatoire avec une petite transition
 
 
 ---
+
